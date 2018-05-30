@@ -16,7 +16,7 @@ public class Square{
       visited = true;
       step = s;
    }
-   public void unvisit(int s){
+   public void unvisit(){
       visited = false;
       step = 0;
    }
