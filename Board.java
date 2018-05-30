@@ -94,7 +94,7 @@ public class Board{
             if (move(xx,yy,st+1)) return true;
          }
       }
-      board[fx][fy].unvisit(st);
+      board[fx][fy].unvisit();
       return false;
    }
    public String printBoard(){
