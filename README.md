@@ -28,5 +28,5 @@ The moves# found in the move method are mapped as follows:
 [ ] [3] [ ] [2] [ ]
 
 
-The only thing you shouls change in the main function is the board size number, the board will be the square of the size you pick.
-Choosing a size greater than 8 might take several hours to finish, though with proper alterations it's possible to greatly the solution time. For size less or equal to 8 the solution is done very fast. 
+The only thing you should change in the main method is the board size number, the board will be the square of the size you pick.
+Choosing a size greater than 8 might take several hours to finish, though with proper alterations it's possible to greatly reduce the solution time. For size less or equal to 8 the solution is done very fast. 
