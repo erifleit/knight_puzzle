@@ -17,15 +17,15 @@ Due to the nature of 2D arrays and how to print them, the X and Y axis are rotat
 
 The moves# found in the move method are mapped as follows:
 
-[ ] [6] [ ] [7] [ ]
+[-] [6] [-] [7] [-]
 
-[5] [ ] [ ] [ ] [8]
+[5] [-] [-] [-] [8]
 
-[ ] [ ] [k] [ ] [ ]
+[-] [-] [k] [-] [-]
 
-[4] [ ] [ ] [ ] [1]
+[4] [-] [-] [-] [1]
 
-[ ] [3] [ ] [2] [ ]
+[-] [3] [-] [2] [-]
 
 
 The only thing you should change in the main method is the board size number, the board will be the square of the size you pick.
